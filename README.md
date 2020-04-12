@@ -6,3 +6,4 @@ This folder includes simple machine learning techniques.
 3. using NLTK (Tokenize, Freq dist)
 4. beautifulSoup
 5. extractTEXT from PDF
+6. word cloud
